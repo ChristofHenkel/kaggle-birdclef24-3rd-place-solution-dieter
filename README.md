@@ -1,0 +1,1 @@
+# kaggle-birdclef24-3rd-place-solution-dieter
